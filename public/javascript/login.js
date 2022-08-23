@@ -1,3 +1,6 @@
+//  login submission 
+
+
 async function loginFormHandler(event) {
     event.preventDefault();
   
@@ -17,7 +20,7 @@ async function loginFormHandler(event) {
       if (response.ok) {
         document.location.replace('/dashboard');
       } else {
-        alert("Password and username must be different!");
+        alert(response.statusText);
       }
     }
   }
