@@ -18,7 +18,7 @@ This is a CMS-style blog site, similar to a basic wordpress page where users can
 ## Application Live URL
 The TechBlog live URL:
 
-[Employee Tracker application demo](https://pure-scrubland-34803.herokuapp.com/)
+[The TechBlog Live URL here](https://pure-scrubland-34803.herokuapp.com/)
 
 ## Installation
 * 'npm init' ,
