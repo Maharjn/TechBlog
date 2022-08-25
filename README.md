@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Application Demo](#application-demo)
+* [Application Live URL](#application-live-url)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -15,10 +15,10 @@
 ## Description
 This is a CMS-style blog site, similar to a basic wordpress page where users can publish and delete posts, as well as comment on other users posts. Developed using Handlebars and Sequilize.
 
-## Application Demo
-The following video link shows the functionality of the Employee Tracker application:
+## Application Live URL
+The TechBlog live URL:
 
-[Employee Tracker application demo](./demo-video/Employee_Tracker_Demo.webm)
+[Employee Tracker application demo](https://pure-scrubland-34803.herokuapp.com/)
 
 ## Installation
 * 'npm init' ,
@@ -35,7 +35,7 @@ The following video link shows the functionality of the Employee Tracker applica
 ## Usage
  This application will allow users to signup to the TechBlog site.Once the user Signedup successfully,they can view all the post and comment on the other user's post.
 
- The user can create new post and update/delete their own post.
+ The user can create a new post and update/delete their own post.
 
 ## License
 ![MIT-licensed](https://img.shields.io/badge/license-MIT-red)
